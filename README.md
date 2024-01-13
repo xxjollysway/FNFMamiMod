@@ -1,4 +1,4 @@
-This HTML5 port is property of SuperTeamXP
+This HTML5 port is property of xxjollysway
 
 Do not fork/clone this repository without acknowledging me and the creators
 
