@@ -1,5 +1,5 @@
 This HTML5 port is property of xxjollysway
 
-Do not fork/clone this repository without acknowledging me and the creators
+You are free to fork/clone this repository!
 
 Thanks to GithubSPerez, jorgeperezrojas, KadeDev, sayofthelor, and KadeCS for the mod and source code
